@@ -39,3 +39,7 @@ How to Run:
    Run this in terminal:
 
    pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+This image shows my latest 5 emails sent to google sheets successfully
+![image](https://github.com/user-attachments/assets/bbdf37e1-5146-4d6d-849a-b91615cef2de)
+
